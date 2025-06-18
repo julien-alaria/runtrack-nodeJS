@@ -1,1 +1,1 @@
-Commande ECHO activ‚e.
+console.log("Hello World")
