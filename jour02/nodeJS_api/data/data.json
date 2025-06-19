@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Acheter du lait",
+      "description": "Aller au supermarché et acheter une bouteille de lait",
+      "completed": false
+    }
+  ]
+}
